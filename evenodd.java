@@ -10,7 +10,7 @@ public class evenodd {
 
         if(num % 2 == 0)
             System.out.println(num + " is even"); 
-	else if
+	else if(num<= 0)
 		System.out.println(num + " is invalid ");
         else
             System.out.println(num + " is odd");
